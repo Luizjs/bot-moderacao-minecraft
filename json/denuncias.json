@@ -1,0 +1,9 @@
+{
+  "mensagemID": {
+    "denunciante": "userId",
+    "nick": "NickDoJogador",
+    "prints": "url",
+    "videos": "url",
+    "descricao": "texto opcional"
+  }
+}
