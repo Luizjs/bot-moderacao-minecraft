@@ -1,5 +1,5 @@
 # 💜 Bot para moderação de servidores de minecraft feito em Discord.js (v14).
-## 🚀 Esse e um projeto discontinuado que fiz a algum tempo atras, como não o ultilizo mais, preferi compartilhar.
+## 🚀 Esse e um projeto discontinuado que fiz a algum tempo atras, como não o utilizo mais, preferi compartilhar.
 ```
 💻 Esse bot tem varias funcionalidades, como ticket, appeals e etc.
 ```
